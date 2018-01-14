@@ -1,0 +1,39 @@
+atl.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddol
+  rotate: false
+  xy: 2, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+live
+  rotate: false
+  xy: 98, 72
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+put
+  rotate: false
+  xy: 2, 2
+  size: 451, 68
+  orig: 471, 68
+  offset: 3, 0
+  index: -1
+rrub
+  rotate: false
+  xy: 34, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 66, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
